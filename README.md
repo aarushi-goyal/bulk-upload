@@ -11,4 +11,4 @@ Steps to run node-app locally
 Note: The input excel file should contain a field `phonenumber ` with entries of phone number.
 
 To run node-app on heroku
-- Go to `bulk-upload-excel.herokuapp.com` and repeat stepas 4 & 5
+- Go to `bulk-upload-excel.herokuapp.com` and repeat steps 4 & 5
