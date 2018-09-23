@@ -1,0 +1,31 @@
+{
+  "name": "bulk-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarushi-goyal/bulk-upload.git"
+  },
+  "author": "Aarushi Goyal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aarushi-goyal/bulk-upload/issues"
+  },
+  "homepage": "https://github.com/aarushi-goyal/bulk-upload#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "body-parser": "^1.18.3",
+    "exceljs": "^1.6.2",
+    "http": "0.0.0",
+    "multer": "^1.3.1",
+    "path": "^0.12.7",
+    "tempfile": "^2.0.0",
+    "ws": "^6.0.0",
+    "xls-to-json-lc": "^0.3.4",
+    "xlsx-to-json-lc": "^0.5.0"
+  }
+}
